@@ -1,0 +1,5 @@
+
+class SensorException(Exception):
+    
+    pass
+
